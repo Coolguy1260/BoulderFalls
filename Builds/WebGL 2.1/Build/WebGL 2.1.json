@@ -1,0 +1,13 @@
+{
+"companyName": "Coolguy1260",
+"productName": "Boulder Falls",
+"dataUrl": "WebGL 2.1.data.unityweb",
+"wasmCodeUrl": "WebGL 2.1.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL 2.1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"}
+}
